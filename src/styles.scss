@@ -176,8 +176,9 @@ button {
 .s-header {
 	position: relative;
 	z-index: 1;
+	margin-bottom: rhythm(0.5);
 
-	&__title { margin-bottom: rhythm() }
+	&__title { margin-bottom: rhythm(0.5); }
 	&__search {
 		&-field {
 			height: rhythm(2);
@@ -243,6 +244,28 @@ a {
 	.app__nav-container-right { background: green; }
 }
 
+.list {
+	.search {
+		&__result {
+			@include span(100%);
+			margin-right: 0;
+			margin-left: 0;
+		}
+
+		&__item-image {
+			width: 72px;
+		}
+
+		&:nth-child(3n+3) {
+			@include span(100% no-gutters);
+		}
+
+		&__item-title { float: none; }
+
+		&__link { margin-right: $gutter-50; }
+	}
+}
+
 .grid {
 	.search {
 		&__result {
@@ -256,30 +279,8 @@ a {
 				clear: left;
 			}
 		}
-
-		&__item-image {
-			width: 100%;
-		}
-
+		&__item-image { width: 100%; }
 		&__link { width: 100%; }
-	}
-}
-
-.list {
-	.search {
-		&__result {
-			@include span(100%);
-			margin-right: 0;
-			margin-left: 0;
-		}
-
-		&__item-image {
-			width: 72px;
-		}
-
-		&__item-title { float: none; }
-
-		&__link { margin-right: $gutter-50; }
 	}
 }
 

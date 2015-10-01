@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "A test project",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/DOMUSNETWORK/sclouder",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
