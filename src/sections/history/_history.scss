@@ -1,0 +1,1 @@
+.history {	&__list {		&-item {			@include adjust-font-size-to(22px, 2);			margin-bottom: 24px;			&:last-child {				margin-bottom: 0;			}			span { color: white; }		}	}	&__link { color: #333; }	&__remove {}}

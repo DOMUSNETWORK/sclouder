@@ -1,0 +1,286 @@
+@import "susy";
+@import "breakpoint";
+@import "compass";
+@import "compass/reset";
+@import "compass/css3/box-sizing";
+@import "compass/typography/vertical_rhythm";
+@import "compass/utilities/general/clearfix";
+@import "compass/css3/transform";
+
+$base-font-size: 16px;
+$base-line-height: 24px;
+
+$gutter-100: 24px;
+$gutter-50: $gutter-100/2;
+$gutter-25: $gutter-100/4;
+
+$elems-radius: 6px;
+
+$font-family--default : 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family--primary : 'Francois One', $font-family--default;
+$font-family--logo : 'Luckiest Guy', $font-family--default;
+
+$susy: (
+		columns: 12,
+		container: 540px,
+		global-box-sizing: border-box
+);
+
+@include border-box-sizing;
+// @include establish-baseline;
+
+@mixin animation() {
+	-webkit-animation-duration: 0.6s;
+	animation-duration: 0.6s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+
+@mixin effect($effect) {
+	-webkit-animation-name: $effect;
+	animation-name: $effect;
+}
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+*:focus {
+	outline: 0;
+}
+
+body {
+	// @include debug-vertical-alignment();
+	font-family: $font-family--primary;
+	font-weight: 600;
+	color: #333;
+}
+
+#{headings(1,6)} {
+
+}
+
+h1 { @include adjust-font-size-to(32px, 2); }
+
+h2 { @include adjust-font-size-to(26px, 1); }
+
+h3 { @include adjust-font-size-to(21px); }
+
+.app {
+	&__header {
+		@include container;
+	}
+	&__logo {
+		@include adjust-font-size-to(48px, 3);
+		margin: 24px 0;
+		text-align: center;
+		color: #484848;
+
+		&-wrapper {
+			position: relative;
+			display: table;
+			margin: 0 auto;
+		}
+
+		&-container {
+			font-family: $font-family--logo;
+		}
+
+		i {
+			@include adjust-font-size-to(26px, 1);
+			@include rotate(-20deg);
+
+			position: absolute;
+			top: 0;
+			left: -90px;
+			color: #343434;
+		}
+
+		div {
+
+		}
+	}
+	&__nav {
+		&-container {
+			@include clearfix;
+
+			&-left,
+			&-right {
+				@include adjust-font-size-to(32px, 2);
+				width: 50%;
+				float: left;
+
+				i { @include adjust-font-size-to(20px, 1); }
+			}
+
+			&-left {
+				background: #FF5500;
+				color: white;
+			}
+			&-right {
+				background: #484848;
+				color: white;
+			}
+
+
+		}
+		&-center {
+			display: table;
+			margin: 0 auto;
+		}
+		&-link {
+			display: block;
+			width: 100%;
+		}
+	}
+}
+
+.main {
+	@include container;
+
+	&__container {
+		@include single-transition(all, 600ms, ease);
+		background: #FF5500;
+		padding: rhythm();
+
+		&.ng-enter {
+			@include animation();
+			@include effect(fadeIn);
+
+			.track__image {
+				@include animation();
+				@include effect(fadeIn);
+			}
+		}
+
+		&.ng-leave {
+			@include animation();
+			@include effect(fadeOut);
+		}
+	}
+}
+
+.view {
+	position: relative;
+}
+
+button {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	background-color: transparent;
+	font-size: 100%;
+}
+
+.s-header {
+	position: relative;
+	z-index: 1;
+
+	&__title { margin-bottom: rhythm() }
+	&__search {
+		&-field {
+			height: rhythm(2);
+			width: 100%;
+			padding: 0 60px 0 12px;
+			font-size: 100%;
+			border: 0;
+		}
+
+		&-submit-btn {
+			width: $gutter-100 * 2;
+			height: rhythm(2);
+			position: absolute;
+			top: 0;
+			right: 0;
+			z-index: 10;
+			margin-left: $gutter-50;
+			background: #484848;
+		}
+	}
+
+	.dropdown-menu {
+		background: white;
+
+		li {
+			padding: $gutter-50;
+		}
+	}
+}
+
+a {
+	text-decoration: none;
+}
+
+.fa {
+	display: block;
+	text-align: center;
+	line-height: 48px;
+	font-size: 24px;
+	color: white;
+}
+
+.loading-msg {
+	@include single-transition(all, 500ms, linear);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width:96px;
+	height:96px;
+	margin-left: 48px;
+	margin-top: 48px;
+
+	i {
+		@include adjust-font-size-to(60px, 4);
+		text-align: center;
+	}
+
+	.ng-hide { opacity: 0;}
+}
+
+.sref-active {
+	.app__nav-container-left { background: pink; }
+	.app__nav-container-right { background: green; }
+}
+
+.grid {
+	.search {
+		&__result {
+			@include span(1 of 3);
+
+			&:nth-child(3n+3) {
+				@include span(last 1 of 3);
+			}
+
+			&:nth-child(4n+4) {
+				clear: left;
+			}
+		}
+
+		&__item-image {
+			width: 100%;
+		}
+
+		&__link { width: 100%; }
+	}
+}
+
+.list {
+	.search {
+		&__result {
+			@include span(100%);
+			margin-right: 0;
+			margin-left: 0;
+		}
+
+		&__item-image {
+			width: 72px;
+		}
+
+		&__item-title { float: none; }
+
+		&__link { margin-right: $gutter-50; }
+	}
+}
+
+@import "/sections/**/*";

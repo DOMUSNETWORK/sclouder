@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fabe093c-61c8-4405-a53e-d3c5d233ce08" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/ac0330f4cd4a034431bd004a296aff9554a01f7c/%042c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/dd4a4a7df3ebcf0a84d09d37bebf4e71a656fbe0/_alternating-rows-and-columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/css3/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a8abb4c74c75cf2ea76c56e47f2da5b0aef93f1c/_background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/2eb17f1fdec1e50a16113cd380af589916ae6457/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_bleed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/dd4a4a7df3ebcf0a84d09d37bebf4e71a656fbe0/_borders.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/css3/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a8abb4c74c75cf2ea76c56e47f2da5b0aef93f1c/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_breakpoint-plugin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/dffb2df37a0936c2cc978fbaf4323c58f60a6797/_breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/f656c011813cec15bb8dc978cb69188a86381eb5/_brightness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/72cf377d2ae93cff4f4cc364cea695147db27952/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/lists/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/700401ad847cab9ba4c3dd0661264a5cce00105d/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a8abb4c74c75cf2ea76c56e47f2da5b0aef93f1c/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/899f385e6a85e420a5c6f6d742b22fe4e1f0edd8/_color.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/ba7990eab51bafc883ededf37cb284754d1f8a35/_compass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_container.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/9b58ab3babe53c8e35636501f70c74a62ebfddea/_container.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_container.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/22b7d36a22d4db069379698a0b905baaa3611d9d/_context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/f656c011813cec15bb8dc978cb69188a86381eb5/_contrast.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/d6f9e3a7195b5257453d38c9f43d5733c38a04b1/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/74addf4e91b2ba2bc68516f8bf8498eaedef9cf5/_default-pair.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/74addf4e91b2ba2bc68516f8bf8498eaedef9cf5/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/9625ff729eb857eaaa9bd78281ed4259add16f0e/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a558dd1abf3da0de05c6c532db312d666cc760b7/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_deprecated-support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_direction.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/74addf4e91b2ba2bc68516f8bf8498eaedef9cf5/_double-string.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/fd37e48f404fe1a3747e66fd29bef17f6c31f140/_double.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/894b45f9375ae306dd0df2c49cae886e914e1301/_ellipsis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/9b58ab3babe53c8e35636501f70c74a62ebfddea/_end.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/103affe719256b02f5fb678f031baef2683cf269/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/700401ad847cab9ba4c3dd0661264a5cce00105d/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/894b45f9375ae306dd0df2c49cae886e914e1301/_force-wrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_gallery.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/899f385e6a85e420a5c6f6d742b22fe4e1f0edd8/_general.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/efc018412c9b350277ad5becc6649a4bde46aeda/_grid-background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/06a84882d464c75e9a8fdaff265bf165ed5ec190/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_grids.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_gutters.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/700401ad847cab9ba4c3dd0661264a5cce00105d/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/22b7d36a22d4db069379698a0b905baaa3611d9d/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/2b1c4fc9053e10543bf6d43c6a1f1922810c22de/_history.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/72cf377d2ae93cff4f4cc364cea695147db27952/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/lists/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/c782ab1b964c2601fcf341c490b0dd65be234e60/_hover-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/css3/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/72cf377d2ae93cff4f4cc364cea695147db27952/_inline-block-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/css3/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/72cf377d2ae93cff4f4cc364cea695147db27952/_inline-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_inspect.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_isolate.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/9b58ab3babe53c8e35636501f70c74a62ebfddea/_isolate.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/c782ab1b964c2601fcf341c490b0dd65be234e60/_link-colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/bbfd96d760f5bc65e501975b402fb0e9555c769d/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/bbfd96d760f5bc65e501975b402fb0e9555c769d/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/06a84882d464c75e9a8fdaff265bf165ed5ec190/_maps.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_margins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_margins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/85f4011f0a35bd9d0e73d5b88216008239f16d27/_math.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/700401ad847cab9ba4c3dd0661264a5cce00105d/_min.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/22b7d36a22d4db069379698a0b905baaa3611d9d/_no-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/894b45f9375ae306dd0df2c49cae886e914e1301/_nowrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_output.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_padding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/b11748bed5220fa9b41c00550924ff6cb974d550/_padding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/22b7d36a22d4db069379698a0b905baaa3611d9d/_parsers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a8abb4c74c75cf2ea76c56e47f2da5b0aef93f1c/_prefix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/fd37e48f404fe1a3747e66fd29bef17f6c31f140/_query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a8abb4c74c75cf2ea76c56e47f2da5b0aef93f1c/_rem.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/text/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/894b45f9375ae306dd0df2c49cae886e914e1301/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/700401ad847cab9ba4c3dd0661264a5cce00105d/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/d6f9e3a7195b5257453d38c9f43d5733c38a04b1/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/1b738f11201afbb477e64dc7110840de8846bfa2/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/fd37e48f404fe1a3747e66fd29bef17f6c31f140/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/22b7d36a22d4db069379698a0b905baaa3611d9d/_respond-to.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_rows.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/dd4a4a7df3ebcf0a84d09d37bebf4e71a656fbe0/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/fdc8bb7b6abe298f6ab564a162adec5c7bb35807/_search.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/06a84882d464c75e9a8fdaff265bf165ed5ec190/_settings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_settings.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/103affe719256b02f5fb678f031baef2683cf269/_shared.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/fd37e48f404fe1a3747e66fd29bef17f6c31f140/_single.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_span.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/9b58ab3babe53c8e35636501f70c74a62ebfddea/_span.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/2eb17f1fdec1e50a16113cd380af589916ae6457/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/899f385e6a85e420a5c6f6d742b22fe4e1f0edd8/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a3bb5f5b75caf5bdbce862906da1dfa82e72492f/_su.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/103affe719256b02f5fb678f031baef2683cf269/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a8abb4c74c75cf2ea76c56e47f2da5b0aef93f1c/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/d6f9e3a7195b5257453d38c9f43d5733c38a04b1/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/520a5d23d6a58defee834a8fb649570b5c78b1ec/_susy.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/a0d4db0486d5f81392b5bdc58417510a4d0cfa49/_susy.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/899f385e6a85e420a5c6f6d742b22fe4e1f0edd8/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/700401ad847cab9ba4c3dd0661264a5cce00105d/_tag-cloud.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/bbfd96d760f5bc65e501975b402fb0e9555c769d/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/eebc01d9eccb10fbfd2967f0daf403e0fd7b9bab/_track.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/css3/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/fd37e48f404fe1a3747e66fd29bef17f6c31f140/_triple.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/d6f9e3a7195b5257453d38c9f43d5733c38a04b1/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/bbfd96d760f5bc65e501975b402fb0e9555c769d/_units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/c782ab1b964c2601fcf341c490b0dd65be234e60/_unstyled-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/3e0371ebd768d01fe57de05df023e665c0a1866d/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/0eae96225fd7574379362bc4811765156117f33b/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/reset/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/d6f9e3a7195b5257453d38c9f43d5733c38a04b1/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/06a84882d464c75e9a8fdaff265bf165ed5ec190/_validation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/7db60d2a1799f0107a439a5b1aeb0b3428c5d7ff/_validation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.1/stylesheets/compass/typography/_vertical_rhythm.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/bbfd96d760f5bc65e501975b402fb0e9555c769d/_vertical_rhythm.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.tmp/.sass-cache/e9139b4af15f419c75c1fd3c98ae9e9688bf54eb/styles.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SClouder.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Xpression.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/history/_history.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/search/_search.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/track/_track.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.services.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/history/history.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/history/history.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/search/search.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/search/search.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/storage.fct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/styles.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/track/track.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sections/track/track.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/services/tracks.fct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="SClouder.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SClouder" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5798611">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.core.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app.core.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.routes.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app.routes.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.services.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app.services.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-5.230769">
+                  <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="history.tpl.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/history/history.tpl.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-1.3076923">
+                  <caret line="2" column="88" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="88" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="search.tpl.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/search/search.tpl.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-13.730769">
+                  <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="1.6161972">
+                  <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="track.tpl.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/track/track.tpl.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-10.461538">
+                  <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="history.ctrl.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/history/history.ctrl.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="search.ctrl.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/search/search.ctrl.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="track.ctrl.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/track/track.ctrl.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="30" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="30" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tracks.fct.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/services/tracks.fct.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="storage.fct.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/services/storage.fct.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/styles.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.8468244">
+                  <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_history.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/history/_history.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-8.5">
+                  <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_search.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/search/_search.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-23.538462">
+                  <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_track.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/sections/track/_track.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.6153846">
+                  <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sass/styles.scss" />
+        <option value="$PROJECT_DIR$/src/sections/manifest.scss" />
+        <option value="$PROJECT_DIR$/src/sections/_manifest.scss" />
+        <option value="$PROJECT_DIR$/config.rb" />
+        <option value="$PROJECT_DIR$/src/app.services.js" />
+        <option value="$PROJECT_DIR$/src/sections/track/track.ctrl.js" />
+        <option value="$PROJECT_DIR$/src/sections/history/history.tpl.html" />
+        <option value="$PROJECT_DIR$/src/services/storage.fct.js" />
+        <option value="$PROJECT_DIR$/src/services/tracks.fct.js" />
+        <option value="$PROJECT_DIR$/src/sections/track/track.tpl.html" />
+        <option value="$PROJECT_DIR$/src/sections/track/_track.scss" />
+        <option value="$PROJECT_DIR$/src/sections/search/search.ctrl.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/app.core.js" />
+        <option value="$PROJECT_DIR$/src/app.routes.js" />
+        <option value="$PROJECT_DIR$/src/sections/main/main.ctrl.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/sections/history/history.ctrl.js" />
+        <option value="$PROJECT_DIR$/src/sections/history/_history.scss" />
+        <option value="$PROJECT_DIR$/src/sections/search/_search.scss" />
+        <option value="$PROJECT_DIR$/src/sections/search/search.tpl.html" />
+        <option value="$PROJECT_DIR$/src/styles.scss" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="track" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="history" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SClouder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Xpression/WebstormProjects/SClouder/src/styles.scss" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabe093c-61c8-4405-a53e-d3c5d233ce08" name="Default" comment="" />
+      <created>1443583341758</created>
+      <option name="number" value="Default" />
+      <updated>1443583341758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/history.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/search.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/track.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/history.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/search.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/track.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/tracks.fct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/storage.fct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/_history.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/_search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/_track.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="91" selection-start-line="0" selection-start-column="91" selection-end-line="0" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="75" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/history.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/search.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/track.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/history.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/search.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/track.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/tracks.fct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/storage.fct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/_history.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/_search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/_track.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11574468">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0139372">
+          <caret line="7" column="23" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="756" column="0" selection-start-line="756" selection-start-column="0" selection-end-line="756" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/track.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/tracks.fct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/search.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/storage.fct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/track.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/history.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="88" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/history.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/track/_track.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/history/_history.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/_search.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8468244">
+          <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sections/search/search.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6161972">
+          <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
