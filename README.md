@@ -1,5 +1,5 @@
 # Soundcloud API test.
-## [DEMO](http://sclouder.herokuapp.com) page.<br />
+## [DEMO](https://sclouder.herokuapp.com) page.<br />
 <br />
 
 ## Project Brief

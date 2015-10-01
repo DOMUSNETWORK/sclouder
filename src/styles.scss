@@ -65,6 +65,14 @@ h2 { @include adjust-font-size-to(26px, 1); }
 
 h3 { @include adjust-font-size-to(21px); }
 
+footer {
+	padding: rhythm(1);
+	background: #343434;
+	text-align: center;
+
+	a { color: white; }
+}
+
 .app {
 	&__header {
 		@include container;
@@ -136,6 +144,7 @@ h3 { @include adjust-font-size-to(21px); }
 
 .main {
 	@include container;
+	margin-bottom: rhythm(2);
 
 	&__container {
 		@include single-transition(all, 600ms, ease);
