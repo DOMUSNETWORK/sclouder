@@ -1,0 +1,1 @@
+angular	.module('app', ['app.routes', 'app.core', 'app.services'])	.config(function() {		SC.initialize({client_id: '8f8f371912b94f27caf4bffbe0d6633d'});	});

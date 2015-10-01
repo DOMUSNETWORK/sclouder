@@ -1,0 +1,17 @@
+{
+  "name": "SClouder",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A test project",
+  "repository": "https://github.com/angular/angular-seed",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "http-server": "^0.6.1"
+  },
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
